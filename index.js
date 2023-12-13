@@ -16,7 +16,6 @@ async function main() {
 
   console.log("database started");
 }
-//Schema 
 
 
 //body parser
